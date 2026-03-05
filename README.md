@@ -7,7 +7,7 @@ Software Engineer || Front-End Developer
 A Front-End Developer with expertise in HTML, CSS, Bootstrap, JavaScript, SASS, and Tailwind. I also have experience using Git and GitHub for version control and have worked with. My passion for creating visually appealing and user-friendly web applications drives me to stay up-to-date with the latest technologies and frameworks. I am a collaborative team player and always strive to deliver high-quality projects that meet the needs of clients and users.
 
 * 🌍  I'm based in Egypt
-* ✉️  You can contact me at [mahmoudelnaggar\_@outlook.com](mailto:meid29013@gmail.com)
+* ✉️  You can contact me at(mailto:meid29013@gmail.com)
 * 🧠  I'm learning React, NextJs
 ### Skills
 
